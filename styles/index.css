@@ -1,0 +1,46 @@
+table, tr, th, td {
+    border: 1px solid rgb(60, 6, 56);
+    text-align: center;
+}
+table {
+    width: 80%;
+    margin: auto;  
+}
+a{
+    color: white;
+}
+button{
+    background-color: #91437b;
+    border: none;
+    border-radius: 10px;
+    color: white;
+    padding: 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+}
+
+body {
+    background-color: rgb(33, 5, 29);
+    font-family: 'Montserrat', sans-serif;
+    color: aliceblue;
+}
+header {
+    width: 80%;
+    margin: auto;
+    padding: 5px;
+    background-color: rgb(22, 11, 22);
+    text-align: center;
+    
+}
+
+.rating {
+    font-size: large;
+    
+    color: rgb(233, 197, 35);
+}
+.star {
+    font-size: xx-large;
+}
